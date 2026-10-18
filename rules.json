@@ -1,0 +1,83 @@
+[
+  {
+    "rule_id": "R01",
+    "name": "Identify significant construction issues",
+    "instruction": "Exclude routine administrative discussion unless it affects delivery, cost, compliance or a decision."
+  },
+  {
+    "rule_id": "R02",
+    "name": "Identify contractual specification deviations",
+    "instruction": "Compare stated specifications, BOQ requirements and proposed or installed materials when evidence is available."
+  },
+  {
+    "rule_id": "R03",
+    "name": "Distinguish approval stages",
+    "instruction": "Separate submitted, under review, approved, conditionally approved, rejected and closed."
+  },
+  {
+    "rule_id": "R04",
+    "name": "Identify missing technical evidence",
+    "instruction": "Detect missing calculations, certificates, drawings, material data or test results."
+  },
+  {
+    "rule_id": "R05",
+    "name": "Identify engineering dependencies",
+    "instruction": "Flag potential effects on connected systems, design assumptions or construction activities."
+  },
+  {
+    "rule_id": "R06",
+    "name": "Identify variation-order implications",
+    "instruction": "Assess whether a proposed change requires supporting design, quantity, programme or cost information."
+  },
+  {
+    "rule_id": "R07",
+    "name": "Identify EOT-related issues",
+    "instruction": "Extract reported delay causes, responsibility disputes, notices and missing substantiation."
+  },
+  {
+    "rule_id": "R08",
+    "name": "Identify procurement and sequencing problems",
+    "instruction": "Detect when procurement, installation or approval activities are out of sequence."
+  },
+  {
+    "rule_id": "R09",
+    "name": "Identify commercial exposure",
+    "instruction": "Flag matters that may affect payment, claims, variations or rework without inventing financial values."
+  },
+  {
+    "rule_id": "R10",
+    "name": "Validate reported project progress",
+    "instruction": "Check the stated measurement basis, scope and comparability of progress figures."
+  },
+  {
+    "rule_id": "R11",
+    "name": "Identify recurring quality problems",
+    "instruction": "Track defects, NCRs, rectification proposals and inspection closure."
+  },
+  {
+    "rule_id": "R12",
+    "name": "Track decisions and commitments",
+    "instruction": "Preserve committed dates, decision authority and subsequent changes."
+  },
+  {
+    "rule_id": "R13",
+    "name": "Identify contradictions",
+    "instruction": "Detect conflicting technical values, responsibilities, statements or reported statuses."
+  },
+  {
+    "rule_id": "R14",
+    "name": "Analyse recurring issues",
+    "instruction": "Link related discussions across meetings without creating unnecessary duplicate issues."
+  },
+  {
+    "rule_id": "R15",
+    "name": "Determine evidence-supported status",
+    "instruction": "Do not mark an issue closed solely because it disappears from subsequent minutes."
+  },
+  {
+    "rule_id": "R16",
+    "name": "Generate management intelligence",
+    "instruction": "Present the issue, technical implications, evidence gaps and recommended next verification step."
+  }
+]
+
